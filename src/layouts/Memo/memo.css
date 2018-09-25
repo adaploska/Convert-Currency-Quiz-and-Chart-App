@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+}
+h4 {
+  text-align: center;
+}
+.memocontainer {
+  padding: 5%;
+  margin-top: 2%;
+  border-radius: 5px;
+  -webkit-box-shadow: 10px 10px 40px -5px rgba(49, 120, 115, 1);
+  -moz-box-shadow: 10px 10px 40px -5px rgba(49, 120, 115, 1);
+  box-shadow: 10px 10px 40px -5px rgba(49, 120, 115, 1);
+  display: flex;
+  flex-wrap: wrap;
+  margin: 1%;
+}
+
+.memoelements {
+  flex-basis: 15%;
+  flex-grow: 1;
+  height: 20vh;
+  background-color: #809eb2;
+  border: 4px solid red;
+}

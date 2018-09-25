@@ -1,0 +1,15 @@
+
+.graphContainer {
+    width: 80vw;
+    margin-right: auto;
+    margin-left: auto;
+    border-radius: 5px;
+    -webkit-box-shadow: 10px 10px 40px -5px rgba(49,120,115,1);
+    -moz-box-shadow: 10px 10px 40px -5px rgba(49,120,115,1);
+    box-shadow: 10px 10px 40px -5px rgba(49,120,115,1);
+    padding: 15px;
+    margin-top: 1%;
+}
+h4{
+    text-align: center;
+}
