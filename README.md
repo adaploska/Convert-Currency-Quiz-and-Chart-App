@@ -8,7 +8,7 @@ Here is a working live:
 * Application in Ract.
 * This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
-* App convert currency basing on current date.
+* App convert currency base on current date.
 * App show chart with gold Price.
 * Morover you can play in quiz about countries and capitals.
 
@@ -35,11 +35,11 @@ serve with reload:
 Data from:
 
 1. http://api.nbp.pl/api/cenyzlota/last/30/?format=json
-2. "http://api.nbp.pl/api/exchangerates/tables/a/"
+2. http://api.nbp.pl/api/exchangerates/tables/a/
 
 Font from:
 
-1. "https://fonts.googleapis.com/css?family=Montserrat"
+1. https://fonts.googleapis.com/css?family=Montserrat
 
 ###  License
 MIT © Ada Płoska
