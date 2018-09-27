@@ -1,47 +1,45 @@
-Convert Currency, Quiz and Chart App
+# Convert Currency, Quiz and Chart App
 
-Demo
+### Demo
 Here is a working live:
 
-Description
+### Description
 
-Application in Ract.
-This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
+* Application in Ract.
+* This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
-App convert currency basing on current date.
-App show chart with gold Price.
-Morover you can play in quiz about countries and capitals.
+* App convert currency base on current date.
+* App show chart with gold Price.
+* Morover you can play in quiz about countries and capitals.
 
-Built with
+###  Built with
 
-HTML5
-React
-CSS3
-AXIOS
-BOOTSTRAP
-REACT CHART JS
+* HTML5
+* React
+* CSS3
+* AXIOS
+* BOOTSTRAP
+* REACT CHART JS
 
-Setup
+###  Setup
 
-# install dependencies
+install dependencies:
+* $ npm install
+* $ axios install
 
-$ npm install
-$ axios install
+serve with reload:
+* npm start
 
-# serve with reload
-
-npm start
-
-Sources
+###  Sources
 
 Data from:
 
 1. http://api.nbp.pl/api/cenyzlota/last/30/?format=json
-2. "http://api.nbp.pl/api/exchangerates/tables/a/"
+2. http://api.nbp.pl/api/exchangerates/tables/a/
 
 Font from:
 
-1. "https://fonts.googleapis.com/css?family=Montserrat"
+1. https://fonts.googleapis.com/css?family=Montserrat
 
-License
+###  License
 MIT © Ada Płoska
