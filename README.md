@@ -1,7 +1,7 @@
 # Convert Currency, Quiz and Chart App
 
 ### Demo
-Here is a working live:
+Here is a working live: https://nervous-brattain-8025db.netlify.com
 
 ### Description
 
