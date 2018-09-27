@@ -9,6 +9,14 @@ const CardStyle = {
   float: "left"
 };
 
+let ar = [2, 3, 4];
+console.log(ar);
+ar.forEach((element, index) => {
+  {
+    element * 2;
+  }
+});
+
 export class Memo extends React.Component {
   render() {
     return (

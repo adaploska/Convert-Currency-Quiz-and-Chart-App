@@ -17,7 +17,7 @@ export class Exchange extends React.Component {
 
   componentDidMount() {
     axios
-      .get("http://api.nbp.pl/api/exchangerates/tables/a/")
+      .get("https://api.nbp.pl/api/exchangerates/tables/a/")
       .then(result => {
         array.push({ code: "PLN", value: 1.0 }); //d;aczego 1 liczba nan
         for (let i = 0; i < result.data[0].rates.length; i++) {
