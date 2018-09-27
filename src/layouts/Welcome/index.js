@@ -7,7 +7,7 @@ let arrayValues = [];
 
 function chartData() {
   axios
-    .get("http://api.nbp.pl/api/cenyzlota/last/30/?format=json")
+    .get("https://api.nbp.pl/api/cenyzlota/last/30/?format=json")
     .then(result => {
       for (let i = 0; i < result.data.length; i++) {
         arrayDates.push(result.data[i].data);
